@@ -4,7 +4,9 @@
 Estudiando en Henry y capacitándome día a día descubrí que el Front End es lo que más me apasiona. 
 Siempre pensando en el usuario; en la interacción que va a tener con el producto y en la estética que busca encontrar en la página.
 
-En Herny aprendí distintas tecnologías que fui complementando con otras que fui aprendiendo de manera autodidacta. Entre ellas
+En Herny aprendí distintas tecnologías que fui complementando con otras que fui aprendiendo de manera autodidacta. 
+
+Mis conocimientos: :point_down:
 
 ![image](https://user-images.githubusercontent.com/95652037/179283540-6603e5eb-72f2-40e9-9230-f518a7da5f4f.png)
 ![image](https://user-images.githubusercontent.com/95652037/179283732-17edfa1b-0dc2-483e-ac8f-50a37ffb7b65.png)
@@ -19,11 +21,11 @@ En Herny aprendí distintas tecnologías que fui complementando con otras que fu
 
 
 
-Siempre en movimiento, acá podrás encontrar algunos proyectos que hice de manera grupal y otros individual.
+Siempre en movimiento, acá :point_down: podrás encontrar algunos proyectos que hice de manera grupal y otros individual.
 
 
-Por cualquier duda, no dudes en escribirme.
+:mailbox_with_mail: Por cualquier duda, no dudes en escribirme.
 
-Linkedin --> https://www.linkedin.com/in/emiliano-rotta-fernandez
+Linkedin :point_right: https://www.linkedin.com/in/emiliano-rotta-fernandez
 
-Gmail --> emilianorottaf@gmail.com
+Gmail :point_right: emilianorottaf@gmail.com
