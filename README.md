@@ -1,12 +1,10 @@
 👋 Soy Emiliano! Front End Developer.
 
-🌱 Desde finales del 2021, que empecé a profundizar en mi gusto por la programación. Hoy puedo decir que soy :smiley: Full Stack Developer. :smiley:
+🌱 Desde el 2021, que empecé a profundizar en mi gusto por la programación. Hoy puedo decir que soy :smiley: Full Stack Developer. :smiley:
 Estudiando en Henry y capacitándome día a día descubrí que el Front End es lo que más me apasiona. 
 Siempre pensando en el usuario; en la interacción que va a tener con el producto y en la estética que busca encontrar en la página.
 
-En Herny aprendí distintas tecnologías que fui complementando con otras que fui aprendiendo de manera autodidacta. 
-
-Mis conocimientos: :point_down:
+Algunas de las herramientas con las que cuento son :point_down: 
 
 ![image](https://user-images.githubusercontent.com/95652037/179283540-6603e5eb-72f2-40e9-9230-f518a7da5f4f.png)
 ![image](https://user-images.githubusercontent.com/95652037/179283732-17edfa1b-0dc2-483e-ac8f-50a37ffb7b65.png)
