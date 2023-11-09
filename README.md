@@ -1,6 +1,7 @@
 👋 Soy Emiliano! Front End Developer.
 
 Soy un apasionado por la educación y la programación.🚀
+
 🌱Me apasiona la naturaleza, especialmente la montaña y todas las actividades que se puedan desarrollar allí. Fui Scout por muchos años, aprendiendo a liderar, a disfrutar la vida al aire libre, a emprender nuevas aventuras, a vivir con otros etc.
 
 Me gusta trabajar en equipo aportando mi creatividad, positividad y buen humor.
