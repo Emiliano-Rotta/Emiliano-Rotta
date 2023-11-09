@@ -1,15 +1,17 @@
 👋 Soy Emiliano! Front End Developer.
 
-🌱 Desde el 2021, que empecé a profundizar en mi gusto por la programación. Hoy puedo decir que soy :smiley: Full Stack Developer. :smiley:
-Estudiando en Henry y capacitándome día a día descubrí que el Front End es lo que más me apasiona. 
-Siempre pensando en el usuario; en la interacción que va a tener con el producto y en la estética que busca encontrar en la página.
+Soy un apasionado por la educación y la programación.🚀
+🌱Me apasiona la naturaleza, especialmente la montaña y todas las actividades que se puedan desarrollar allí. Fui Scout por muchos años, aprendiendo a liderar, a disfrutar la vida al aire libre, a emprender nuevas aventuras, a vivir con otros etc.
+
+Me gusta trabajar en equipo aportando mi creatividad, positividad y buen humor.
+Estudié abogacía, filosofía y programación.
 
 Algunas de las herramientas con las que cuento son :point_down: 
 
 ![image](https://user-images.githubusercontent.com/95652037/179283540-6603e5eb-72f2-40e9-9230-f518a7da5f4f.png)
-![image](https://user-images.githubusercontent.com/95652037/179283732-17edfa1b-0dc2-483e-ac8f-50a37ffb7b65.png)
+
 ![image](https://user-images.githubusercontent.com/95652037/179284136-8f3a46d8-a386-422d-ae2d-29f4da047982.png)
-![image](https://user-images.githubusercontent.com/95652037/179284152-a808c825-c8aa-4771-b8b7-a564768a595e.png)
+
 ![material-UI](https://user-images.githubusercontent.com/95652037/179304899-616ea75f-daa9-4ad5-898c-f9ca2dab8b76.png)
 
 ![image](https://user-images.githubusercontent.com/95652037/179284079-688c716e-010e-43c1-8cbc-8ac868f070d9.png)
